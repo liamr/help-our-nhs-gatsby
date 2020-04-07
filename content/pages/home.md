@@ -2,8 +2,8 @@
 template: HomePage
 slug: ''
 title: Help our NHS
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: 'Pulling together all the amazing offers of help & resources for our NHS.'
+featuredImage: 'https://ucarecdn.com/0bf9f307-6874-498e-a5a0-b50ef8cec788/'
+subtitle: Pulling together all the amazing offers of help & resources for our NHS.
 meta:
   description: This is a meta description.
   title: Home
