@@ -51,7 +51,7 @@ export default ({ children, meta, title }) => {
           }
 
         return (
-          <Fragment>
+          <div class="app">
             <Helmet
               defaultTitle={siteTitle}
               titleTemplate={`%s | ${siteTitle}`}
@@ -73,14 +73,12 @@ export default ({ children, meta, title }) => {
               {...data.settingsYaml}
             />
 
-            <GithubCorner url="https://github.com/thriveweb/yellowcake" />
-
             <Nav subNav={subNav} />
 
             <Fragment>{children}</Fragment>
 
             <Footer />
-          </Fragment>
+          </div>
         )
       }}
     />

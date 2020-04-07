@@ -1,9 +1,9 @@
 :root {
-  --primary: #00c2bd;
+  --primary: #1261B5;
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
-  --darkGrey: #272727;
+  --darkGrey: #444;
   --danger: #ff3d3d;
   --font-primary: 'Open Sans', sans-serif;
   --font-system: system-ui; /* postcssPresetEnv */
@@ -231,4 +231,14 @@ blockquote {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.app > main {
+  flex: 1 0 auto;
 }

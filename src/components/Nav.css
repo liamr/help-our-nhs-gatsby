@@ -10,7 +10,7 @@
 .Nav--Container {
   display: flex;
   align-items: center;
-  height: 6rem;
+  height: 8rem;
 }
 
 .Nav--Links {
@@ -21,7 +21,34 @@
 }
 
 .Nav--Links > * + * {
+  margin-left: 3rem;
+}
+
+.Nav--Social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  margin-left: auto;
+  color: var(--darkGrey);
+}
+
+.Nav--Social > * + * {
   margin-left: 1rem;
+}
+
+.Nav--Social a {
+  color: var(--darkGrey);
+}
+
+.Nav--Social a:hover {
+  color: var(--midGrey);
+}
+
+.Nav--Social svg {
+  width: 2rem;
+  height: auto;
+  margin-top: 4px;
 }
 
 .Nav .Logo {
@@ -34,7 +61,7 @@
 }
 
 .NavLink {
-  padding: 0.5rem 1rem;
+  padding: 0.3rem 0;
   display: block;
   font-weight: 500;
   transition: color 0.2s, border-bottom-color 0.2s;
@@ -110,7 +137,7 @@
 
   .Nav--MenuButton {
     display: block !important;
-    margin-left: auto;
+    margin-left: 2rem;
     z-index: 1;
   }
   .Nav .Logo {
