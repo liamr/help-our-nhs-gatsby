@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Location } from '@reach/router'
 import { Link } from 'gatsby'
 import { Menu, X } from 'react-feather'
-import { FaFacebookSquare, FaTwitterSquare, FaInstagram } from 'react-icons/fa';
+import { FaFacebookSquare, FaTwitterSquare, FaInstagram } from 'react-icons/fa'
 import Logo from './Logo'
 
 import './Nav.css'
@@ -55,6 +55,11 @@ export class Navigation extends Component {
             <NavLink to="/donate/">Donate</NavLink>
             <NavLink to="/volunteer/">Volunteer</NavLink>
             <NavLink to="/collaborate/">Collaborate</NavLink>
+            <a href="http://nhsfest.co.uk/" target="_blank" className="NavLink">
+              NHS Fest
+            </a>
+            <NavLink to="/contact/">Contact</NavLink>
+
             {/* <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
@@ -89,10 +94,16 @@ export class Navigation extends Component {
             </div> */}
           </div>
           <div className="Nav--Social">
-          <a href="#"><FaFacebookSquare /></a>
-          <a href="#"><FaTwitterSquare /></a>
-          <a href="#"><FaInstagram /></a>
-        </div>
+            <a href="#">
+              <FaFacebookSquare />
+            </a>
+            <a href="#">
+              <FaTwitterSquare />
+            </a>
+            <a href="#">
+              <FaInstagram />
+            </a>
+          </div>
           <button
             className="Button-blank Nav--MenuButton"
             onClick={this.handleMenuToggle}
@@ -100,7 +111,6 @@ export class Navigation extends Component {
             {active ? <X /> : <Menu />}
           </button>
         </div>
-        
       </nav>
     )
   }
