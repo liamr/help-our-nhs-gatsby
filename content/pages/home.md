@@ -8,4 +8,4 @@ meta:
   description: This is a meta description.
   title: Home
 ---
-Help Our NHS seeks to show everyone's apprecaition of frontline NHS staff by providing them with sustenance & supplies while they work tirelessly on our behalf.
+**Help Our NHS** seeks to convey everyone's apprecaition of frontline NHS staff by providing them with sustenance & supplies while they work tirelessly on our behalf via a combination of fundraising and donations. Supported by artists, individuals and suppliers within the music & events industry.
