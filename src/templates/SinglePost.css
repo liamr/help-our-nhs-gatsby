@@ -1,15 +1,17 @@
 .SinglePost {
   background: var(--lightGrey);
+  flex: 1 0 auto;
 }
 
 .SinglePost--BackButton {
-  color: white;
+  color: var(--primary);
   position: relative;
   display: flex;
   align-items: center;
   font-weight: 600;
   text-decoration: none;
   letter-spacing: 0.1em;
+  margin-bottom: 2rem;
 }
 
 .SinglePost--BackButton svg {
@@ -26,12 +28,23 @@
 .SinglePost--Content {
   background: white;
   padding: 8rem 8rem 4rem 8rem;
+  border-radius: 5px;
+  overflow: hidden;
 }
 
 @media screen and (max-width: 750px) {
   .SinglePost--Content {
     padding: 4rem 2rem;
   }
+}
+
+.SinglePost--FeaturedImage {
+  position: relative;
+  margin-top: -8rem;
+  margin-left: -8rem;
+  margin-right: -8rem;
+  margin-bottom: 4rem;
+  height: 400px;
 }
 
 .SinglePost--Meta {

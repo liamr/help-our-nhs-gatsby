@@ -5,12 +5,14 @@ import { ChevronLeft } from 'react-feather'
 
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import Image from '../components/Image'
 import './SinglePost.css'
 
 export const SinglePostTemplate = ({
   title,
   date,
   body,
+  featuredImage,
   nextPostURL,
   prevPostURL,
   categories = []
@@ -25,7 +27,10 @@ export const SinglePostTemplate = ({
         <Link className="SinglePost--BackButton" to="/news/">
           <ChevronLeft /> BACK
         </Link>
-        <div className="SinglePost--Content relative">
+        <div className="SinglePost--Content">
+          <div className="SinglePost--FeaturedImage">
+            <Image size="cover" background src={featuredImage} alt={title} />
+          </div>
           <div className="SinglePost--Meta">
             {date && (
               <time
@@ -123,6 +128,7 @@ export const pageQuery = graphql`
         template
         subtitle
         date(formatString: "MMMM Do, YYYY")
+        featuredImage
         categories {
           category
         }
