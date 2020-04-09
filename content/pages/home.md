@@ -1,16 +1,11 @@
 ---
 template: HomePage
 slug: ''
-title: Help our NHS
+title: Help Our NHS
 featuredImage: 'https://ucarecdn.com/0bf9f307-6874-498e-a5a0-b50ef8cec788/'
-subtitle: Pulling together all the amazing offers of help & resources for our NHS.
+subtitle: Working to support frontline NHS staff during the Covid-19 outbreak
 meta:
   description: This is a meta description.
   title: Home
 ---
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-[More Components](/components)
-
+Help Our NHS seeks to show everyone's apprecaition of frontline NHS staff by providing them with sustenance & supplies while they work tirelessly on our behalf.
