@@ -1,17 +1,16 @@
 ---
 template: SinglePost
-title: First Poster
-status: Published
-date: '2018-03-28'
-featuredImage: 'https://ucarecdn.com/57002902-e8b3-4315-9995-beb637b29128/'
+title: Launch of "NHS Fest"
+status: Draft
+date: 2020-04-13T23:00:00.000Z
+featuredImage: 'https://ucarecdn.com/86339fe6-0d87-4a71-bc6d-7b1292f4b161/'
 excerpt: This is an excerpt of Post Two
 categories:
   - category: Updates
 meta:
-  description: Help Our NHS wants to show the country’s appreciation of frontline NHS staff by providing them with sustenance & supplies while they work tirelessly on our behalf via a combination of fundraising and donations.
+  description: test meta description
   title: test meta title
 ---
-
-This is placeholder text that our web designers put here to make sure words appear properly on your website. This text is going to be replaced once the website is completed. You are currently reading text that is written in English, not any other language. Be careful not to waste too much time reading placeholder text! This text isn’t going to remain here because it doesn't pertain to the website.
-
-This paragraph has been copied from a program that automatically generates paragraphs like this. It is useful for web designers to use placeholder text so they can easily see what different fonts look like on a realistic paragraph.
+Absolutely delighted to announce the launch of "NHS Fest", our first venture into fundraising to realise the full potential of Help Our NHS.\
+\
+What started with a couple of requests for raffle donations has turned into a raffle with prizes donated by 30 of the UK's best known artists, promoters, broadcasters, musicial instrument manufacturers and a certain Birmingham-based TV show.
