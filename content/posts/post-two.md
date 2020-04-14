@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Launch of "NHS Fest"
-status: Draft
+status: Published
 date: 2020-04-13T23:00:00.000Z
 featuredImage: 'https://ucarecdn.com/86339fe6-0d87-4a71-bc6d-7b1292f4b161/'
 excerpt: >-
