@@ -15,7 +15,8 @@ There are various ways to donate to **Help Our NHS**:
 Take part in the “NHS FEST” raffle\
 *[NHSFest.co.uk](http://www.nhsfest.co.uk/)*
 
-Donate directly
+Donate directly\
+*Coming soon*
 
 Purchase Help Our NHS / NHS FEST merchandise\
 *[merch.helpournhs.co.uk](http://merch.helpournhs.co.uk/)*
