@@ -50,18 +50,21 @@ const BlogRoll = ({ posts = [] }) => {
 }
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page, posts } }) => (
-  <Layout meta={page.frontmatter.meta || false}>
-    <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
-    <BlogRoll
-      posts={posts.edges.map(post => ({
-        ...post.node,
-        ...post.node.frontmatter,
-        ...post.node.fields
-      }))}
-    />
-  </Layout>
-)
+const HomePage = ({ data: { page, posts } }) => {
+  return (<h1 style={{textAlign: "center"}}>Coming soon...</h1>)
+  return (
+    <Layout meta={page.frontmatter.meta || false}>
+      <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
+      <BlogRoll
+        posts={posts.edges.map(post => ({
+          ...post.node,
+          ...post.node.frontmatter,
+          ...post.node.fields
+        }))}
+      />
+    </Layout>
+  )
+}
 
 export default HomePage
 
