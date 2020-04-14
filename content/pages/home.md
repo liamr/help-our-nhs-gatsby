@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Help Our NHS
-featuredImage: 'https://ucarecdn.com/0bf9f307-6874-498e-a5a0-b50ef8cec788/'
+featuredImage: 'https://ucarecdn.com/5b6147d4-604d-42ff-84fa-ee5d7ab0806c/'
 subtitle: Working to support frontline NHS staff during the Covid-19 outbreak
 meta:
   description: This is a meta description.
