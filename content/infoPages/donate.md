@@ -9,10 +9,13 @@ meta:
 ---
 There are various ways to donate to **Help Our NHS**:
 
-Take part in the “NHS FEST” raffle
+Take part in the “NHS FEST” raffle\
+*[NHSFest.co.uk](www.nhsfest.co.uk)*
 
 Donate directly
 
-Purchase Help Our NHS / NHS FEST merchandise
+Purchase Help Our NHS / NHS FEST merchandise\
+*[merch.helpournhs.co.uk](merch.helpournhs.co.uk)*
 
-Provide supplies to be included in frontline staff care packages
+Provide supplies to be included in frontline staff care packages\
+*[Contact](/contact)*
