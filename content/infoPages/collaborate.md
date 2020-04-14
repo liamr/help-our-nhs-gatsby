@@ -2,14 +2,11 @@
 template: DefaultPage
 slug: collaborate
 title: Collaborate
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+featuredImage: 'https://ucarecdn.com/12aa642f-2f34-4f3f-8fdc-79d8da689c91/'
 meta:
   description: test meta description
   title: test meta title
 ---
+Starting with some kind donations from local businesses, Help Our NHS has grown into a nationwide distribution network of supplies to frontline staff.  Such donations are very much still required and can include anything ranging from packaged foods, drinks, and snacks to hot meals to toiletries & “thank you” gifts for the staff.
 
-## This is the Collaborate Page
-
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Sed posuere consectetur est at lobortis. Maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere consectetur est at lobortis. Maecenas faucibus mollis interdum.
-
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Curabitur blandit tempus porttitor. Etiam porta sem malesuada magna mollis euismod.
+If you may be able to help in some way, big or small, please get in touch via our Contact page and we can either assist with getting donations from A to B or point you in the best direction to help.
