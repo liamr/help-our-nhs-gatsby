@@ -52,12 +52,16 @@ export class Navigation extends Component {
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
             <NavLink to="/project/">Project</NavLink>
-            <a href="http://nhsfest.co.uk/" target="_blank" className="NavLink">
+            <a href="https://nhsfest.co.uk/" target="_blank" className="NavLink">
               NHS Fest
             </a>
             <NavLink to="/donate/">Donate</NavLink>
+            <a href="https://merch.helpournhs.co.uk/" target="_blank" className="NavLink">
+              Merch
+            </a>
             <NavLink to="/volunteer/">Volunteer</NavLink>
             <NavLink to="/collaborate/">Collaborate</NavLink>
+            <NavLink to="/credits/">Credits</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
 
             {/* <div
