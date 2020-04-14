@@ -51,7 +51,7 @@ const BlogRoll = ({ posts = [] }) => {
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page, posts } }) => {
-  return (<h1 style={{textAlign: "center"}}>Coming soon...</h1>)
+  if(typeof window !== "undefined") window.location = "https://facebook.com/helpingournhs"
   return (
     <Layout meta={page.frontmatter.meta || false}>
       <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
