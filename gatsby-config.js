@@ -3,7 +3,8 @@ const postcssPresetEnv = require('postcss-preset-env')
 module.exports = {
   siteMetadata: {
     title: 'Help Our NHS',
-    siteUrl: 'https://help-our-nhs.netlify.com'
+    siteUrl: 'https://help-our-nhs.netlify.com',
+    description: 'Help Our NHS wants to show the country’s appreciation of frontline NHS staff by providing them with sustenance & supplies while they work tirelessly on our behalf via a combination of fundraising and donations.'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

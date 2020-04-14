@@ -8,7 +8,7 @@ excerpt: This is an excerpt of Post Two
 categories:
   - category: Updates
 meta:
-  description: test meta description
+  description: Help Our NHS wants to show the country’s appreciation of frontline NHS staff by providing them with sustenance & supplies while they work tirelessly on our behalf via a combination of fundraising and donations.
   title: test meta title
 ---
 

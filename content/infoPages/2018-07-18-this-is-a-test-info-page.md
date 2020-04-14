@@ -5,7 +5,7 @@ title: This is a test info page
 featuredImage: >-
   https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
 meta:
-  description: test meta description
+  description: Help Our NHS wants to show the country’s appreciation of frontline NHS staff by providing them with sustenance & supplies while they work tirelessly on our behalf via a combination of fundraising and donations.
   title: test meta title
 ---
 

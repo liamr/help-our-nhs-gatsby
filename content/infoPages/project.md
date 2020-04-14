@@ -4,8 +4,8 @@ slug: project
 title: Project
 featuredImage: 'https://ucarecdn.com/37c645cd-89ce-481b-9d53-ddae87a9cefa/'
 meta:
-  description: test meta description
-  title: test meta title
+  description: Help Our NHS wants to show the country’s appreciation of frontline NHS staff by providing them with sustenance & supplies while they work tirelessly on our behalf via a combination of fundraising and donations.
+  title: Project
 ---
 **Help Our NHS** was established with the key objective of trying to do something positive, for frontline staff during what are likely to be very difficult weeks & months ahead during the Covid-19 outbreak.
 
