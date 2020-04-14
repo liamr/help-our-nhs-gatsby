@@ -244,3 +244,7 @@ blockquote {
   display: flex;
   flex-direction: column;
 }
+
+.content-max {
+  max-width: 750px;
+}

@@ -75,7 +75,7 @@ const Content = ({ source, src, className = '' }) => {
 
     return (
       <div
-        className={`Content ${className}`}
+        className={`Content content-max ${className}`}
         dangerouslySetInnerHTML={{ __html: source }}
       />
     )
