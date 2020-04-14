@@ -2,43 +2,17 @@
 template: DefaultPage
 slug: donate
 title: Donate
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+featuredImage: 'https://ucarecdn.com/e25e4e19-21a9-42c0-8160-bba49f9f2613/'
 meta:
   description: test meta description
   title: test meta title
 ---
+There are various ways to donate to **Help Our NHS**:
 
-## This is the Donate Page
+Take part in the “NHS FEST” raffle
 
-Paragraphs are separated by a blank line.
+Donate directly
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+Purchase Help Our NHS / NHS FEST merchandise
 
-### Unordered lists:
-
-- this one
-- that one
-- the other one
-
-### Ordered lists:
-
-1.  first item
-1.  second item
-1.  third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+Provide supplies to be included in frontline staff care packages
