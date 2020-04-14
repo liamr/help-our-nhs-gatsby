@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: project
 title: Project
-featuredImage: 'https://ucarecdn.com/ffaa97b6-2095-426a-8ea9-a65858182035/'
+featuredImage: 'https://ucarecdn.com/37c645cd-89ce-481b-9d53-ddae87a9cefa/'
 meta:
   description: test meta description
   title: test meta title
