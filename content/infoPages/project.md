@@ -25,37 +25,47 @@ Our most recent development is connecting with like-minded projects, such as Peo
 
 **HOW CAN YOU HELP?**
 
-There are various ways to donate to Help Our NHS:
+There are various ways to donate to **Help Our NHS**:
 
-Take part in the “NHS FEST” raffle
+•	Take part in the “NHS FEST” raffle
 
-Donate directly
+•	Donate directly
 
-Purchase Help Our NHS / NHS FEST merchandise
+•	Purchase Help Our NHS / NHS FEST merchandise
 
-Provide supplies to be included in frontline staff care packages
+•	Provide supplies to be included in frontline staff care packages
 
 **PROPOSED COSTS**
 
-With everyone involved in the project volunteering their time and skills, and most suppliers of goods & services kindly offering them at dramatically reduced or cost to produce rates, we aim to maximize the use of any funds raised. The following are key costs that we foresee at this early stage of the project:  Raffle administration costs Operated through The Prince & Princess of Wales Hospice’s established lottery license.
+With everyone involved in the project volunteering their time and skills, and most suppliers of goods & services kindly offering them at dramatically reduced or cost to produce rates, we aim to maximize the use of any funds raised. The following are key costs that we foresee at this early stage of the project:  
 
-PPWH charity operation fees The minimal operation fee raised through this raffle will go towards benefiting PPWH’s own day-to-day operations, which include caring for patients at the end of their lives and caring for individuals affected by Covid-19, so very much in line with the project objectives.
+Raffle administration costs\
+Operated through The Prince & Princess of Wales Hospice’s established lottery license.
 
-Postage & packaging of raffle prizes Currently unspecified costs to deliver raffle prizes to winners safely & securely.
+PPWH charity operation fees\
+The minimal operation fee raised through this raffle will go towards benefiting PPWH’s own day-to-day operations, which include caring for patients at the end of their lives and caring for individuals affected by Covid-19, so very much in line with the project objectives.
 
-Purchase of care package contents Every £100 raised would allow us to deliver a care package to frontline NHS staff including items such as:
+Postage & packaging of raffle prizes\
+Currently unspecified costs to deliver raffle prizes to winners safely & securely.
 
-•	x10 lip balm (5ml) and x10 boxed soaps (30g) •	x20 shower gel and x20 hand & body lotion (both 30ml) •	x10 chilled ready meals and x5 sandwiches
-•	x10 packets of crisps, x10 chocolate bars and x3 boxes of cakes
-•	x24 soft drinks cans, x24 still water, x24 sparkling water, and x12 Red Bull
-•	x3 packs of biscuits
+Purchase of care package contents\
+Every £100 raised would allow us to deliver a care package to frontline NHS staff including items such as:
+
+•	x10 lip balm (5ml) and x10 boxed soaps (30g)\
+•	x20 shower gel and x20 hand & body lotion (both 30ml)\
+•	x10 chilled ready meals and x5 sandwiches\
+•	x10 packets of crisps, x10 chocolate bars and x3 boxes of cakes\
+•	x24 soft drinks cans, x24 still water, x24 sparkling water, and x12 Red Bull\
+•	x3 packs of biscuits\
 •	x1 pack of tea bags (x80) and x1 jar of coffee (100g)
 
 This amount also factors in services provided by a distributor, who receive the contents from various suppliers, separate them out into smaller quantities, and repackage them for distribution. The above prices are based on lower quantity wholesale purchasing and there may be the opportunity to reduce costs further by purchasing in bulk. 
 
-Business-related operational expenses / Unknown Currently unspecified costs to provide business-related support to the project, including but not limited to business management, taxation, accountancy, and charity & fundraising legalities.
+Business-related operational expenses\
+Currently unspecified costs to provide business-related support to the project, including but not limited to business management, taxation, accountancy, and charity & fundraising legalities.
 
-Personnel / Unknown As the scale of the project has increased and the potential scope established, it’s become clear that Help Our NHS could be a large-scale operation and may require full time management to run efficiently and effectively. We would intend to operate on a volunteer basis for as long as possible, with only essential personnel being brought on board and paid at a rate in line with others working in similar roles within the sector.
+Personnel\
+As the scale of the project has increased and the potential scope established, it’s become clear that Help Our NHS could be a large-scale operation and may require full time management to run efficiently and effectively. We would intend to operate on a volunteer basis for as long as possible, with only essential personnel being brought on board and paid at a rate in line with others working in similar roles within the sector.
 
 **REPORTING**
 
