@@ -97,13 +97,13 @@ export class Navigation extends Component {
             </div> */}
           </div>
           <div className="Nav--Social">
-            <a href="https://facebook.com/helpingournhs">
+            <a href="https://facebook.com/helpingournhs" target="_blank" >
               <FaFacebookSquare />
             </a>
-            <a href="https://twitter.com/helpingournhs">
+            <a href="https://twitter.com/helpingournhs" target="_blank" >
               <FaTwitterSquare />
             </a>
-            <a href="https://instagram.com/helpingournhs">
+            <a href="https://instagram.com/helpingournhs" target="_blank" >
               <FaInstagram />
             </a>
           </div>

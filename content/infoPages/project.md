@@ -21,9 +21,11 @@ Through friends and colleagues in the music and events industry, an initial sugg
 
 We have formed a partnership with The Prince & Princess of Wales Hospice, which allows Help Our NHS to operate as a stand-alone project within their existing infrastructure – something that has taken Help Our NHS from an idea to a very real & tangible project. We will be utilizing money raised from the raffle, donations and sales of merchandise to immediately secure stock and start organising & distributing items across the country. The amount of money raised will determine the duration of the project, but our goal is to maintain a regular supply of beneficial items during this outbreak and perhaps beyond.
 
-Our most recent development is connecting with like-minded projects, such as People Powered & MedSupplyUK, who seek to assist with more practical requirements on the frontline. This is an area that wasn’t first considered within the scope of Help Our NHS, but is certainly something we would love to assist with if possible.
+Our most recent development is connecting with like-minded projects, such as People Powered & MedSupplyUK, who seek to assist with more practical requirements on the frontline. This is an area that wasn’t first considered within the scope of Help Our NHS, but is certainly something we would love to assist with if possible.   
 
-**HOW CAN YOU HELP?**
+ ---   
+
+##HOW CAN YOU HELP?
 
 There are various ways to donate to **Help Our NHS**:
 
@@ -35,7 +37,10 @@ There are various ways to donate to **Help Our NHS**:
 
 •	Provide supplies to be included in frontline staff care packages
 
-**PROPOSED COSTS**
+
+--- 
+
+##PROPOSED COSTS
 
 With everyone involved in the project volunteering their time and skills, and most suppliers of goods & services kindly offering them at dramatically reduced or cost to produce rates, we aim to maximize the use of any funds raised. The following are key costs that we foresee at this early stage of the project:  
 
@@ -67,7 +72,9 @@ Currently unspecified costs to provide business-related support to the project, 
 Personnel\
 As the scale of the project has increased and the potential scope established, it’s become clear that Help Our NHS could be a large-scale operation and may require full time management to run efficiently and effectively. We would intend to operate on a volunteer basis for as long as possible, with only essential personnel being brought on board and paid at a rate in line with others working in similar roles within the sector.
 
-**REPORTING**
+---
+
+##REPORTING
 
 As the project develops, and the needs of medical staff and the greater frontline network become clearer, we would intend to maintain regular dialogue with staff on a national, regional and, where possible, local level to ensure our efforts are relevant to their current needs and to minimize waste & supplication of supplies. Reporting updates via our social media channels, website, and potentially an e-mail newsletter would serve to notify all interested parties and allow for means of feedback.
 

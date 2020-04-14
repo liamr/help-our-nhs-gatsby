@@ -245,6 +245,12 @@ blockquote {
   flex-direction: column;
 }
 
+hr {
+  border: 0;
+  border-top: 1px solid #ddd;
+  margin: 3rem 0;
+}
+
 .content-max {
   max-width: 750px;
 }

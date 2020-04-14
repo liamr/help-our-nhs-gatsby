@@ -15,11 +15,11 @@ meta:
   title: Contact Page
 ---
 **General Enquiries**\
-helpournhs@gmail.com
+[helpournhs@gmail.com](mailto:helpournhs@gmail.com)
 
 **Press Enquiries**\
-katie@fearpr.co.uk
+[katie@fearpr.co.uk](katie@fearpr.co.uk)
 
-**Facebook** - www.facebook.com/helpingournhs\
-**Twitter** - www.twitter.com/helpingournhs\
-**Instagram** - www.instagram.com/helpingournhs
+**Facebook** - [www.facebook.com/helpingournhs](https://www.facebook.com/helpingournhs)\
+**Twitter** - [www.twitter.com/helpingournhs](https://www.twitter.com/helpingournhs)\
+**Instagram** - [www.instagram.com/helpingournhs](https://www.instagram.com/helpingournhs)
