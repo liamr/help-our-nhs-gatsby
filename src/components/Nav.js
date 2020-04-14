@@ -46,11 +46,10 @@ export class Navigation extends Component {
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
-          <Link to="/" onClick={this.handleLinkClick}>
+          <Link to="/" onClick={this.handleLinkClick} className="Logo-Link">
             <Logo />
           </Link>
           <div className="Nav--Links">
-            <NavLink to="/">Home</NavLink>
             <NavLink to="/project/">Project</NavLink>
             <a href="https://nhsfest.co.uk/" target="_blank" className="NavLink">
               NHS Fest
@@ -98,13 +97,13 @@ export class Navigation extends Component {
             </div> */}
           </div>
           <div className="Nav--Social">
-            <a href="#">
+            <a href="https://facebook.com/helpingournhs">
               <FaFacebookSquare />
             </a>
-            <a href="#">
+            <a href="https://twitter.com/helpingournhs">
               <FaTwitterSquare />
             </a>
-            <a href="#">
+            <a href="https://instagram.com/helpingournhs">
               <FaInstagram />
             </a>
           </div>

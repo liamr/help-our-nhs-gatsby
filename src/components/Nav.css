@@ -51,6 +51,10 @@
   margin-top: 4px;
 }
 
+.Nav .Logo-Link:hover {
+  opacity: 75%;
+}
+
 .Nav .Logo {
   margin-right: 3rem;
   position: relative;
