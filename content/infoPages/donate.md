@@ -16,7 +16,7 @@ There are various ways to donate to **Help Our NHS**:
 *[NHSFest.co.uk](http://www.nhsfest.co.uk/)*
 
 **Donate directly**\
-*Coming soon*
+*[NHSFest.co.uk/donate](https://nhsfest.co.uk/donate)*
 
 **Purchase Help Our NHS / NHS FEST merchandise**\
 *[merch.helpournhs.co.uk](http://merch.helpournhs.co.uk/)*
