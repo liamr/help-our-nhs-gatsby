@@ -2,11 +2,9 @@
 template: DefaultPage
 slug: volunteer
 title: Volunteer
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+featuredImage: 'https://ucarecdn.com/a84fdb5c-4bcc-4605-bd18-f13a23abea34/'
 meta:
   description: test meta description
   title: test meta title
 ---
-
-## This is the Volunteer Page
-
+**Help Our NHS** was started and has been run by people offering their time & services to work on something positive. If you think you may be able to offer your skills, resources or knowledge to the project, please use our **Contact** page to get in touch.
