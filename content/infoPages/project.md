@@ -4,10 +4,13 @@ slug: project
 title: Project
 featuredImage: 'https://ucarecdn.com/37c645cd-89ce-481b-9d53-ddae87a9cefa/'
 meta:
-  description: Help Our NHS wants to show the country’s appreciation of frontline NHS staff by providing them with sustenance & supplies while they work tirelessly on our behalf via a combination of fundraising and donations.
+  description: >-
+    Help Our NHS wants to show the country’s appreciation of frontline NHS staff
+    by providing them with sustenance & supplies while they work tirelessly on
+    our behalf via a combination of fundraising and donations.
   title: Project
 ---
-**Help Our NHS** was established with the key objective of trying to do something positive, for frontline staff during what are likely to be very difficult weeks & months ahead during the Covid-19 outbreak.
+**Help Our Frontline** was established with the key objective of trying to do something positive, for frontline staff during what are likely to be very difficult weeks & months ahead during the Covid-19 outbreak.
 
 Working within intensive and critical care units is a demanding and often exhaustive role. But with the unprecedented pressures being put on these units and the staff involved, we want to do all we can to help provide some practical relief for staff. 
 
@@ -23,24 +26,19 @@ We have formed a partnership with The Prince & Princess of Wales Hospice, which 
 
 Our most recent development is connecting with like-minded projects, such as People Powered & MedSupplyUK, who seek to assist with more practical requirements on the frontline. This is an area that wasn’t first considered within the scope of Help Our NHS, but is certainly something we would love to assist with if possible.   
 
- ---   
+- - -
 
-##HOW CAN YOU HELP?
+\##HOW CAN YOU HELP?
 
-There are various ways to donate to **Help Our NHS**:
-
-•	Take part in the “NHS FEST” raffle
+There are various ways to donate to **Help Our Frontline:**
 
 •	Donate directly
 
-•	Purchase Help Our NHS / NHS FEST merchandise
-
 •	Provide supplies to be included in frontline staff care packages
 
+- - -
 
---- 
-
-##PROPOSED COSTS
+\##PROPOSED COSTS
 
 With everyone involved in the project volunteering their time and skills, and most suppliers of goods & services kindly offering them at dramatically reduced or cost to produce rates, we aim to maximize the use of any funds raised. The following are key costs that we foresee at this early stage of the project:  
 
@@ -72,9 +70,9 @@ Currently unspecified costs to provide business-related support to the project, 
 Personnel\
 As the scale of the project has increased and the potential scope established, it’s become clear that Help Our NHS could be a large-scale operation and may require full time management to run efficiently and effectively. We would intend to operate on a volunteer basis for as long as possible, with only essential personnel being brought on board and paid at a rate in line with others working in similar roles within the sector.
 
----
+- - -
 
-##REPORTING
+\##REPORTING
 
 As the project develops, and the needs of medical staff and the greater frontline network become clearer, we would intend to maintain regular dialogue with staff on a national, regional and, where possible, local level to ensure our efforts are relevant to their current needs and to minimize waste & supplication of supplies. Reporting updates via our social media channels, website, and potentially an e-mail newsletter would serve to notify all interested parties and allow for means of feedback.
 
