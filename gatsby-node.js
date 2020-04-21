@@ -109,3 +109,22 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
 // Random fix for https://github.com/gatsbyjs/gatsby/issues/5700
 module.exports.resolvableExtensions = () => ['.json']
+
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions
+  const typeDefs = `
+  type MarkdownRemark implements Node {
+    frontmatter: Frontmatter
+  }
+  type Frontmatter {
+    date: Date
+    excerpt: String
+    categories: [Category!]!
+  }
+  type Category {
+    category: String
+  }
+
+  `
+  createTypes(typeDefs)
+}

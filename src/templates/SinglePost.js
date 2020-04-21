@@ -127,7 +127,7 @@ export const pageQuery = graphql`
         title
         template
         subtitle
-        date(formatString: "MMMM Do, YYYY")
+        date
         featuredImage
         categories {
           category

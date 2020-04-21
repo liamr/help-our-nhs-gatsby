@@ -55,9 +55,9 @@ export class Navigation extends Component {
               NHS Fest
             </a>
             <NavLink to="/donate/">Donate</NavLink>
-            <a href="https://merch.helpournhs.co.uk/" target="_blank" className="NavLink">
+            {/* <a href="https://merch.helpournhs.co.uk/" target="_blank" className="NavLink">
               Merch
-            </a>
+            </a> */}
             <NavLink to="/volunteer/">Volunteer</NavLink>
             <NavLink to="/collaborate/">Collaborate</NavLink>
             <NavLink to="/credits/">Credits</NavLink>
