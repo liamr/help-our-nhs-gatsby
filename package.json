@@ -1,7 +1,7 @@
 {
   "name": "help-our-nhs-gatsby",
   "HomePage": "https://help-our-nhs.netlify.com/",
-  "description": "Gatsby project for Help Our NHS",
+  "description": "Gatsby project for Help Our Frontline",
   "version": "2.0.0",
   "repository": {
     "type": "git",

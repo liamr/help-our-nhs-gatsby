@@ -5,7 +5,7 @@ title: Project
 featuredImage: 'https://ucarecdn.com/37c645cd-89ce-481b-9d53-ddae87a9cefa/'
 meta:
   description: >-
-    Help Our NHS wants to show the country’s appreciation of frontline NHS staff
+    Help Our Frontline wants to show the country’s appreciation of frontline NHS staff
     by providing them with sustenance & supplies while they work tirelessly on
     our behalf via a combination of fundraising and donations.
   title: Project
@@ -22,9 +22,9 @@ We are now working alongside these UK-wide industries to establish favorable rat
 
 Through friends and colleagues in the music and events industry, an initial suggestion for a few well-known artists to assist with fundraising has grown arms and legs to result in a fundraising raffle with over three dozen contributors, presented under the title “NHS Fest”. 
 
-We have formed a partnership with The Prince & Princess of Wales Hospice, which allows Help Our NHS to operate as a stand-alone project within their existing infrastructure – something that has taken Help Our NHS from an idea to a very real & tangible project. We will be utilizing money raised from the raffle, donations and sales of merchandise to immediately secure stock and start organising & distributing items across the country. The amount of money raised will determine the duration of the project, but our goal is to maintain a regular supply of beneficial items during this outbreak and perhaps beyond.
+We have formed a partnership with The Prince & Princess of Wales Hospice, which allows Help Our Frontline to operate as a stand-alone project within their existing infrastructure – something that has taken Help Our Frontline from an idea to a very real & tangible project. We will be utilizing money raised from the raffle, donations and sales of merchandise to immediately secure stock and start organising & distributing items across the country. The amount of money raised will determine the duration of the project, but our goal is to maintain a regular supply of beneficial items during this outbreak and perhaps beyond.
 
-Our most recent development is connecting with like-minded projects, such as People Powered & MedSupplyUK, who seek to assist with more practical requirements on the frontline. This is an area that wasn’t first considered within the scope of Help Our NHS, but is certainly something we would love to assist with if possible.   
+Our most recent development is connecting with like-minded projects, such as People Powered & MedSupplyUK, who seek to assist with more practical requirements on the frontline. This is an area that wasn’t first considered within the scope of Help Our Frontline, but is certainly something we would love to assist with if possible.   
 
 - - -
 
@@ -68,7 +68,7 @@ Business-related operational expenses\
 Currently unspecified costs to provide business-related support to the project, including but not limited to business management, taxation, accountancy, and charity & fundraising legalities.
 
 Personnel\
-As the scale of the project has increased and the potential scope established, it’s become clear that Help Our NHS could be a large-scale operation and may require full time management to run efficiently and effectively. We would intend to operate on a volunteer basis for as long as possible, with only essential personnel being brought on board and paid at a rate in line with others working in similar roles within the sector.
+As the scale of the project has increased and the potential scope established, it’s become clear that Help Our Frontline could be a large-scale operation and may require full time management to run efficiently and effectively. We would intend to operate on a volunteer basis for as long as possible, with only essential personnel being brought on board and paid at a rate in line with others working in similar roles within the sector.
 
 - - -
 

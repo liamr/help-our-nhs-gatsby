@@ -38,11 +38,11 @@ Has assisted in acquiring donations of toiletries and establishing links with su
 
 **Liam Rutherford**\
 [www.liamr.com](https://liamr.com)  
-Created a cracking website for Help Our NHS in no time at all.
+Created a cracking website for Help Our Frontline in no time at all.
 
 **Jonny Hodson, Tom Bickley & all at Awesome Merchandise**\
 [www.awesomemerchandise.com](https://www.awesomemerchandise.com)  
-Made their services available to us upon hearing about our project, and have assisted in creating Help Our NHS merchandise (at cost price) and are assisting in the implementation of creating care packages.
+Made their services available to us upon hearing about our project, and have assisted in creating Help Our Frontline merchandise (at cost price) and are assisting in the implementation of creating care packages.
 
 **Heather Davina Campbell**\
 [@heatherdavina](https://twitter.com/heatherdavina)  
@@ -50,7 +50,7 @@ Has lent her amazing producing and digital talents to keeping us right on all th
 
 **James Redhead at Redhead Consulting**\
 [www.redheadconsulting.co.uk](http://www.redheadconsulting.co.uk)  
-Helped us figure out how Help Our NHS may actually function in the realm of charities and how a raffle such as NHS Fest might be achievable in such a short space of time.
+Helped us figure out how Help Our Frontline may actually function in the realm of charities and how a raffle such as NHS Fest might be achievable in such a short space of time.
 
 **Phil Magleave & all at Starvale Management**\
 [www.starvale.com](http://www.starvale.com)  
@@ -58,6 +58,6 @@ Provided an intimate knowledge of charitable raffles and society lottery licens
 
 **Rhona Baillie, Chris Harwood & all at The Prince & Princess of Wales Hospice**\
 [www.ppwh.org.uk](https://www.ppwh.org.uk)  
-Stepped in to save the day and provide the backbone to allow Help Our NHS to operate effectively and properly with the charity sector, as well as providing invaluable advice and guidance on all related matters.
+Stepped in to save the day and provide the backbone to allow Help Our Frontline to operate effectively and properly with the charity sector, as well as providing invaluable advice and guidance on all related matters.
 
 Last, but not least – all our donors. From artists to food producers to musical instrument manufacturers to broadcasters. Everyone of you has played a part in making a difference to frontline staff and we are extremely grateful for the time, effort, and resources you have allowed us to use.
