@@ -15,9 +15,9 @@ meta:
   title: Contact Page
 ---
 **General Enquiries**\
-[helpournhs@gmail.com](mailto:helpournhs@gmail.com)
+[helpourfrontline@gmail.com](helpourfrontline@gmail.com)
 
-**Press Enquiries**\
+**[](helpourfrontline@gmail.com)Press Enquiries**\
 [katie@fearpr.co.uk](katie@fearpr.co.uk)
 
 **Facebook** - [www.facebook.com/helpfrontline](http://www.facebook.com/helpfrontline)\
